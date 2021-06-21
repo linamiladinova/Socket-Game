@@ -4,7 +4,7 @@ from _thread import *
 import threading
 
 ServerSocket = socket.socket()
-host = '127.0.0.1'
+host = '130.204.10.84'
 port = 6666
 ThreadCount = 0
 try:
