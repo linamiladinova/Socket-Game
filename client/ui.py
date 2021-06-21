@@ -2,7 +2,7 @@ import os
 import socket
 import threading
 
-HOST = "127.0.0.1"
+HOST = "130.204.10.84"
 PORT = 6666
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
